@@ -1,0 +1,4 @@
+InfernoGems
+-1
+kingsizeBRICK112
+True
